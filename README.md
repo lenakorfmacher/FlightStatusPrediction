@@ -6,9 +6,9 @@ This is a supervised binary classification task in Python with the aim to predic
 ## Purpose
 
 This project was developed as part of my coursework at the University of St Andrews. It was created to fulfill the requirements of a specific assignment. 
-The suggested approach is an exemplary Machine Learning workflow with Python .
+The suggested approach is an exemplary Machine Learning workflow with Python that does not claim to be complete or correct. In fact, there are some aspects that need to be corrected, such as the selection of features that led to overfitting, the selection and fitting of suitable other models and the use of a much larger data set.
 
-By including this project in my portfolio, I aim to demonstrate my skills in web development and in using APIs. It serves as an example of my work to potential employers and collaborators.
+By including this project in my portfolio, I aim to demonstrate my skills in Machine Learning. It serves as an example of my work to potential employers and collaborators.
 
 
 ## Features
@@ -19,9 +19,11 @@ By including this project in my portfolio, I aim to demonstrate my skills in web
 - Shows the score and correct answers at the end of the quiz.
 - Responsive design using Bootstrap.
 
+
 ## Usage
 
 Open `flightPrediction_cleaned.html` in your web browser.
+
 
 ## Technologies Used
 
@@ -29,9 +31,11 @@ Open `flightPrediction_cleaned.html` in your web browser.
 - **HTML**: For representing the results in a static HTML file.
 - **Jupyter Notebook**
 
+
 ## Acknoledgements
 
 [Kaggle Flight Status Prediction Dataset](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022) by Rob Mulla
+
 
 ## License
 
