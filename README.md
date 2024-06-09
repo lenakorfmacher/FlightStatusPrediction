@@ -22,7 +22,7 @@ By including this project in my portfolio, I aim to demonstrate my skills in Mac
 
 ## Usage
 
-Open `flightPrediction_cleaned.html` in your web browser.
+Open `index.html` in your web browser.
 
 
 ## Technologies Used
