@@ -1,5 +1,6 @@
 # Flight Status Prediction
 
+This is a supervised binary classification task in Python with the aim to predict flight status using real-world data from Kaggle.
 
 
 ## Purpose
@@ -27,6 +28,10 @@ Open `flightPrediction_cleaned.html` in your web browser.
 - **Python**: For performing a ML workflow from data exploration to model fine tuning.
 - **HTML**: For representing the results in a static HTML file.
 - **Jupyter Notebook**
+
+## Acknoledgements
+
+[Kaggle Flight Status Prediction Dataset](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022) by Rob Mulla
 
 ## License
 
