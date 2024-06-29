@@ -11,15 +11,6 @@ The suggested approach is an exemplary Machine Learning workflow with Python tha
 By including this project in my portfolio, I aim to demonstrate my skills in Machine Learning. It serves as an example of my work to potential employers and collaborators.
 
 
-## Features
-
-- Fetches quiz questions from the QuizAPI.
-- Displays multiple-choice questions.
-- Allows users to select answers and submit.
-- Shows the score and correct answers at the end of the quiz.
-- Responsive design using Bootstrap.
-
-
 ## Usage
 
 Open `index.html` in your web browser.
